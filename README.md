@@ -15,6 +15,7 @@ Note: keep it simple and clear, fulfilling the minimum requirements
 
 Added one integration test with post and get method for company :) and one quick service unit test 
 tables could be more optimised but i used just jpa functionality to make it fast and simple :) 
+To make docker app working need to integrate url to db instead of localhost :)
 
 basic example for post:
 POST http://localhost:8080/api/companies
